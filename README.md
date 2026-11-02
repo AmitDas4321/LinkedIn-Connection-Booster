@@ -96,22 +96,16 @@ Get the latest version of **LinkedIn Connection Booster** from the Chrome Web St
 
 ## 🖼️ Screenshots
 
-### ✨ LinkedIn Connection Booster – Main Interface
+### 🚀 Grow Your LinkedIn Network
 
 <p align="center">
-  <img src="screenshots/LinkedIn Connection Booster Main.png" alt="LinkedIn Connection Booster Main Interface" width="800">
+  <img src="screenshots/Product Preview.png" alt="LinkedIn Connection Booster Product Preview" width="800">
 </p>
 
-### ✨ My Network Page Required
+### ⚡ Smart Networking Automation
 
 <p align="center">
-  <img src="screenshots/LinkedIn Connection Booster Network.png" alt="My Network Page Required" width="800">
-</p>
-
-### ✨ Pro Version Active
-
-<p align="center">
-  <img src="screenshots/LinkedIn Connection Booster Pro.png" alt="LinkedIn Connection Booster Pro Version" width="800">
+  <img src="screenshots/Automation Pro.png" alt="LinkedIn Connection Booster Automation Interface" width="800">
 </p>
 
 ---
