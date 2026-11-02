@@ -38,7 +38,7 @@ Get the latest version of **LinkedIn Connection Booster** from the Chrome Web St
   </a>
   &nbsp;&nbsp;
   <!-- GitHub Releases Button -->
-  <a href="YOUR_GITHUB_RELEASES_URL">
+  <a href="https://github.com/AmitDas4321/LinkedIn-Connection-Booster/releases/download/v1.0.0/LinkedIn.Connection.Booster.crx">
     <img src="https://img.shields.io/badge/Download%20Latest%20Release-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release">
   </a>
 </p>
