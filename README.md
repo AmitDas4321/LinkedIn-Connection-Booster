@@ -120,7 +120,7 @@ LinkedIn Connection Booster is designed to minimize unnecessary data handling.
 - Permissions are intended to support the Extension's core functionality.
 - No unrelated advertising or analytics functionality is intended.
 
-Read our full [Privacy Policy](YOUR_PRIVACY_POLICY_URL).
+Read our full [Privacy Policy](PRIVACY.md).
 
 ---
 
@@ -176,7 +176,7 @@ Need help, have questions, or want to suggest a feature?
 
 ## 📜 License
 
-This extension is © 2026 **Amit Das – Blue Orbit Devs**.
+This extension is © 2026 **Amit Das – BlueOrbit Devs**.
 
 All rights reserved. Redistribution, modification, or commercial use without permission is prohibited.
 
@@ -184,11 +184,5 @@ All rights reserved. Redistribution, modification, or commercial use without per
 
 <p align="center">
   <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
-  Blue Orbit Devs<br>
-  ☕ Support development: <a href="https://paypal.me/AmitDas4321">PayPal.me/AmitDas4321</a><br>
-  © 2026 Amit Das — All Rights Reserved
-</p>
-
-<p align="center">
-  <i>Build your network. Simplify your workflow. 🚀</i>
+  ☕ Support development: <a href="https://paypal.me/AmitDas4321">PayPal.me/AmitDas4321</a>
 </p>
