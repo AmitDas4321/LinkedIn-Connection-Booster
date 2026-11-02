@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Smart Networking Assistant for LinkedIn</b><br>
-  Version 1.0.0 • Developed by <a href="https://amitdas.site">Amit Das</a> | Blue Orbit Devs
+  Version 1.0.0 • Developed by <a href="https://amitdas.site">Amit Das</a> | BlueOrbit Devs
 </p>
 
 ---
